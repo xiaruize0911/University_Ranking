@@ -1,0 +1,1966 @@
+{
+    "total_count": 2551,
+    "total_pages": 256,
+    "current_page": 1,
+    "header": {
+        "search": {
+            "search_engine_id": "009692862532464842631:7x4cnqttvvy",
+            "search_box_placeholder_text": "Search U.S. News Education",
+            "id": "0000016e-4c4c-df8c-a9ee-de7ef6e50000",
+            "permalink": "https://www.usnews.com/search/education"
+        },
+        "mega_menu": {
+            "search_template_path": "templates/pages/education/higher-education/nav-search-switcher.nunj",
+            "permalink": "",
+            "menu": {
+                "children": [
+                    {
+                        "cms_taxon_children_empty": true,
+                        "link": {
+                            "pull_cta_url": false,
+                            "pull_short_headline": false,
+                            "new_window": false,
+                            "content_reference_id": "00000142-928b-d33c-abc6-ff9fe7600000",
+                            "text": "Home",
+                            "data_tracking_dmp": false,
+                            "permalink": "",
+                            "type": "internal-profile",
+                            "url": "https://www.usnews.com/education",
+                            "campaign_id": "Education"
+                        },
+                        "permalink": "",
+                        "url_patterns": []
+                    },
+                    {
+                        "cms_taxon_children_empty": true,
+                        "link": {
+                            "pull_cta_url": false,
+                            "pull_short_headline": false,
+                            "new_window": false,
+                            "content_reference_id": "00000142-928b-d33c-abc6-ff9fecde0000",
+                            "text": "Colleges",
+                            "data_tracking_dmp": false,
+                            "permalink": "",
+                            "type": "internal-profile",
+                            "url": "https://www.usnews.com/best-colleges",
+                            "campaign_id": "Best Colleges"
+                        },
+                        "mega_menu_dropdown": {
+                            "template": "mega-menu.lite.nunj",
+                            "dropdown_type": "lite",
+                            "permalink": "",
+                            "items": [
+                                {
+                                    "heading": {
+                                        "override_lookup": false,
+                                        "new_window": false,
+                                        "text": "Rankings and Directories",
+                                        "data_tracking_dmp": false,
+                                        "permalink": "",
+                                        "type": "external",
+                                        "url": "/best-colleges/rankings"
+                                    },
+                                    "links": [
+                                        {
+                                            "pull_cta_url": false,
+                                            "pull_short_headline": false,
+                                            "new_window": false,
+                                            "content_reference_id": "0000015d-9a5b-d580-a95d-dbfbfa260000",
+                                            "data_tracking_dmp": false,
+                                            "text": "National Universities",
+                                            "permalink": "",
+                                            "type": "internal-profile",
+                                            "url": "https://www.usnews.com/best-colleges/rankings/national-universities",
+                                            "campaign_id": "National Universities"
+                                        },
+                                        {
+                                            "pull_cta_url": false,
+                                            "pull_short_headline": false,
+                                            "new_window": false,
+                                            "content_reference_id": "0000015d-9a5b-d580-a95d-dbfba1360000",
+                                            "data_tracking_dmp": false,
+                                            "text": "National Liberal Arts Colleges",
+                                            "permalink": "",
+                                            "type": "internal-profile",
+                                            "url": "https://www.usnews.com/best-colleges/rankings/national-liberal-arts-colleges",
+                                            "campaign_id": "National Liberal Arts Colleges"
+                                        },
+                                        {
+                                            "pull_cta_url": false,
+                                            "pull_short_headline": false,
+                                            "new_window": false,
+                                            "content_reference_id": "0000015d-9a5e-d580-a95d-dbff50ae0000",
+                                            "text": "Regional Universities",
+                                            "data_tracking_dmp": false,
+                                            "permalink": "",
+                                            "type": "internal-profile",
+                                            "url": "https://www.usnews.com/best-colleges/rankings/regional-universities",
+                                            "campaign_id": "Regional Universities Rankings Index"
+                                        },
+                                        {
+                                            "pull_cta_url": false,
+                                            "pull_short_headline": false,
+                                            "new_window": false,
+                                            "content_reference_id": "0000015d-9a5c-d580-a95d-dbff6a060000",
+                                            "text": "Regional Colleges",
+                                            "data_tracking_dmp": false,
+                                            "permalink": "",
+                                            "type": "internal-profile",
+                                            "url": "https://www.usnews.com/best-colleges/rankings/regional-colleges",
+                                            "campaign_id": "Regional Colleges Rankings Index"
+                                        },
+                                        {
+                                            "pull_cta_url": false,
+                                            "pull_short_headline": false,
+                                            "new_window": false,
+                                            "content_reference_id": "0000015d-9a5a-d580-a95d-dbfbd3300000",
+                                            "text": "HBCUs",
+                                            "data_tracking_dmp": false,
+                                            "relations": [],
+                                            "permalink": "",
+                                            "type": "internal-profile",
+                                            "url": "https://www.usnews.com/best-colleges/rankings/hbcu",
+                                            "campaign_id": "Historically Black Colleges and Universities"
+                                        },
+                                        {
+                                            "pull_cta_url": false,
+                                            "pull_short_headline": false,
+                                            "new_window": false,
+                                            "text": "Community Colleges",
+                                            "data_tracking_dmp": false,
+                                            "permalink": "",
+                                            "type": "internal-profile",
+                                            "url": "https://www.usnews.com/education/community-colleges",
+                                            "campaign_id": "Community Colleges"
+                                        },
+                                        {
+                                            "override_lookup": false,
+                                            "new_window": false,
+                                            "text": "All Rankings",
+                                            "data_tracking_dmp": false,
+                                            "relations": [],
+                                            "permalink": "",
+                                            "type": "external",
+                                            "url": "/best-colleges/rankings"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "heading": {
+                                        "override_lookup": false,
+                                        "new_window": false,
+                                        "text": "Tools",
+                                        "data_tracking_dmp": false,
+                                        "permalink": "",
+                                        "type": "external"
+                                    },
+                                    "links": [
+                                        {
+                                            "override_lookup": false,
+                                            "new_window": false,
+                                            "text": "College Admissions Calculator",
+                                            "data_tracking_dmp": false,
+                                            "relations": [],
+                                            "permalink": "",
+                                            "type": "external",
+                                            "url": "/best-colleges/admissions-calculator"
+                                        },
+                                        {
+                                            "override_lookup": false,
+                                            "new_window": false,
+                                            "text": "Compare Colleges",
+                                            "data_tracking_dmp": false,
+                                            "relations": [],
+                                            "permalink": "",
+                                            "type": "external",
+                                            "url": "/best-colleges/compare"
+                                        },
+                                        {
+                                            "override_lookup": false,
+                                            "new_window": false,
+                                            "text": "College Major Quiz",
+                                            "data_tracking_dmp": false,
+                                            "permalink": "",
+                                            "type": "external",
+                                            "url": "https://www.usnews.com/best-colleges/college-major-quiz"
+                                        },
+                                        {
+                                            "override_lookup": false,
+                                            "new_window": false,
+                                            "text": "College Search",
+                                            "data_tracking_dmp": false,
+                                            "relations": [],
+                                            "permalink": "",
+                                            "type": "external",
+                                            "url": "/best-colleges/college-search"
+                                        },
+                                        {
+                                            "override_lookup": false,
+                                            "new_window": false,
+                                            "text": "Scholarship Search",
+                                            "data_tracking_dmp": false,
+                                            "relations": [],
+                                            "permalink": "",
+                                            "type": "external",
+                                            "url": "/education/scholarship-search"
+                                        },
+                                        {
+                                            "override_lookup": false,
+                                            "new_window": true,
+                                            "text": "Pre-College Summer Programs",
+                                            "data_tracking_dmp": false,
+                                            "permalink": "",
+                                            "type": "external",
+                                            "url": "https://www.teenlife.com/category/summer/?program-type=summer&sp_provided_by=College",
+                                            "target": "_blank"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "heading": {
+                                        "pull_cta_url": false,
+                                        "pull_short_headline": false,
+                                        "new_window": false,
+                                        "text": "Advice",
+                                        "data_tracking_dmp": false,
+                                        "permalink": "",
+                                        "type": "internal-profile",
+                                        "url": "https://www.usnews.com/education/best-colleges/advice",
+                                        "campaign_id": "Best Colleges Advice Landing"
+                                    },
+                                    "links": [
+                                        {
+                                            "pull_cta_url": false,
+                                            "pull_short_headline": false,
+                                            "new_window": false,
+                                            "content_reference_id": "0000016d-eee4-d0b9-a3fd-efec63530001",
+                                            "text": "College Majors",
+                                            "data_tracking_dmp": false,
+                                            "relations": [],
+                                            "permalink": "",
+                                            "type": "internal-profile",
+                                            "url": "https://www.usnews.com/education/best-colleges/college-majors",
+                                            "campaign_id": "U.S. News Guide to College Majors"
+                                        },
+                                        {
+                                            "pull_cta_url": false,
+                                            "pull_short_headline": false,
+                                            "new_window": false,
+                                            "content_reference_id": "00000142-928c-d33c-abc6-ff9d013c0000",
+                                            "data_tracking_dmp": false,
+                                            "text": "Finding the Right School",
+                                            "permalink": "",
+                                            "type": "internal-profile",
+                                            "url": "https://www.usnews.com/education/best-colleges/right-school",
+                                            "campaign_id": "Finding the Right School"
+                                        },
+                                        {
+                                            "pull_cta_url": false,
+                                            "pull_short_headline": false,
+                                            "new_window": false,
+                                            "content_reference_id": "0000015d-56b4-d40b-a3dd-feb5700a0000",
+                                            "data_tracking_dmp": false,
+                                            "text": "Apply to College",
+                                            "permalink": "",
+                                            "type": "internal-profile",
+                                            "url": "https://www.usnews.com/education/best-colleges/apply-to-college",
+                                            "campaign_id": "Apply to College"
+                                        },
+                                        {
+                                            "pull_cta_url": false,
+                                            "pull_short_headline": false,
+                                            "new_window": false,
+                                            "content_reference_id": "00000142-928c-d33c-abc6-ff9d01f00000",
+                                            "data_tracking_dmp": false,
+                                            "text": "Paying for College",
+                                            "permalink": "",
+                                            "type": "internal-profile",
+                                            "url": "https://www.usnews.com/education/best-colleges/paying-for-college",
+                                            "campaign_id": "Paying for College"
+                                        },
+                                        {
+                                            "pull_cta_url": false,
+                                            "pull_short_headline": false,
+                                            "new_window": true,
+                                            "content_reference_id": "00000162-62a2-d9e3-adfa-7fae14570000",
+                                            "text": "Guide to Financial Aid",
+                                            "data_tracking_dmp": false,
+                                            "permalink": "",
+                                            "type": "internal-profile",
+                                            "url": "https://www.usnews.com/education/best-colleges/paying-for-college/articles/an-ultimate-guide-to-understanding-college-financial-aid",
+                                            "campaign_id": "The Ultimate Guide to Understanding College Financial Aid",
+                                            "target": "_blank"
+                                        },
+                                        {
+                                            "pull_cta_url": false,
+                                            "pull_short_headline": false,
+                                            "new_window": true,
+                                            "content_reference_id": "0000015f-a768-d8bf-a3df-ef6a82680000",
+                                            "text": "Student Loans",
+                                            "data_tracking_dmp": false,
+                                            "permalink": "",
+                                            "type": "internal-profile",
+                                            "url": "https://money.usnews.com/loans/student-loans/best-private-student-loans",
+                                            "campaign_id": "Best Private Student Loans",
+                                            "target": "_blank"
+                                        },
+                                        {
+                                            "pull_cta_url": false,
+                                            "category_id": "19",
+                                            "pull_short_headline": false,
+                                            "new_window": true,
+                                            "content_reference_id": "0000014e-98d3-d683-abde-bcf388420000",
+                                            "text": "Student Credit Cards",
+                                            "data_tracking_dmp": false,
+                                            "permalink": "",
+                                            "type": "internal-profile",
+                                            "url": "https://money.usnews.com/credit-cards/student",
+                                            "campaign_id": "Best Credit Cards for Students of {{ MONTH_AND_YEAR }}",
+                                            "target": "_blank"
+                                        },
+                                        {
+                                            "pull_cta_url": false,
+                                            "pull_short_headline": false,
+                                            "new_window": false,
+                                            "content_reference_id": "00000156-6b03-d1ca-a1d7-ff2fa4720000",
+                                            "text": "All College Advice",
+                                            "data_tracking_dmp": false,
+                                            "permalink": "",
+                                            "type": "internal-profile",
+                                            "url": "https://www.usnews.com/education/best-colleges/advice",
+                                            "campaign_id": "Best Colleges Advice Landing"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "heading": {
+                                        "override_lookup": false,
+                                        "rel": "sponsored",
+                                        "new_window": true,
+                                        "text": "Webinars",
+                                        "data_tracking_dmp": false,
+                                        "relations": [
+                                            {
+                                                "name": "SPONSORED",
+                                                "ordinal": 12
+                                            }
+                                        ],
+                                        "permalink": "",
+                                        "type": "external",
+                                        "url": "https://app.collegeadvisor.com/webinars?utm_source=USNews",
+                                        "target": "_blank"
+                                    },
+                                    "links": [
+                                        {
+                                            "override_lookup": false,
+                                            "rel": "sponsored",
+                                            "new_window": true,
+                                            "text": "Admissions and Applications",
+                                            "data_tracking_dmp": false,
+                                            "relations": [
+                                                {
+                                                    "name": "SPONSORED",
+                                                    "ordinal": 12
+                                                }
+                                            ],
+                                            "permalink": "",
+                                            "type": "external",
+                                            "url": "https://app.collegeadvisor.com/webinar/series/1?utm_source=USNews-DropDown",
+                                            "target": "_blank"
+                                        },
+                                        {
+                                            "override_lookup": false,
+                                            "rel": "sponsored",
+                                            "new_window": true,
+                                            "text": "Financial Aid & Scholarships",
+                                            "data_tracking_dmp": false,
+                                            "relations": [
+                                                {
+                                                    "name": "SPONSORED",
+                                                    "ordinal": 12
+                                                }
+                                            ],
+                                            "permalink": "",
+                                            "type": "external",
+                                            "url": "https://app.collegeadvisor.com/webinar/series/2?utm_source=USNews-DropDown",
+                                            "target": "_blank"
+                                        },
+                                        {
+                                            "override_lookup": false,
+                                            "rel": "sponsored",
+                                            "new_window": true,
+                                            "text": "Building Your Resume & Extracurriculars",
+                                            "data_tracking_dmp": false,
+                                            "relations": [
+                                                {
+                                                    "name": "SPONSORED",
+                                                    "ordinal": 12
+                                                }
+                                            ],
+                                            "permalink": "",
+                                            "type": "external",
+                                            "url": "https://app.collegeadvisor.com/webinar/series/4?utm_source=USNews-DropDown",
+                                            "target": "_blank"
+                                        },
+                                        {
+                                            "override_lookup": false,
+                                            "rel": "sponsored",
+                                            "new_window": true,
+                                            "text": "College Majors",
+                                            "data_tracking_dmp": false,
+                                            "relations": [
+                                                {
+                                                    "name": "SPONSORED",
+                                                    "ordinal": 12
+                                                }
+                                            ],
+                                            "permalink": "",
+                                            "type": "external",
+                                            "url": "https://app.collegeadvisor.com/webinar/series/5?utm_source=USNews-DropDown",
+                                            "target": "_blank"
+                                        },
+                                        {
+                                            "override_lookup": false,
+                                            "rel": "sponsored",
+                                            "new_window": true,
+                                            "text": "Crafting Your College List",
+                                            "data_tracking_dmp": false,
+                                            "relations": [
+                                                {
+                                                    "name": "SPONSORED",
+                                                    "ordinal": 12
+                                                }
+                                            ],
+                                            "permalink": "",
+                                            "type": "external",
+                                            "url": "https://app.collegeadvisor.com/webinar/series/7?utm_source=USNews-DropDown",
+                                            "target": "_blank"
+                                        },
+                                        {
+                                            "override_lookup": false,
+                                            "rel": "sponsored",
+                                            "new_window": true,
+                                            "text": "For Parents",
+                                            "data_tracking_dmp": false,
+                                            "relations": [
+                                                {
+                                                    "name": "SPONSORED",
+                                                    "ordinal": 12
+                                                }
+                                            ],
+                                            "permalink": "",
+                                            "type": "external",
+                                            "url": "https://app.collegeadvisor.com/webinar/series/8?utm_source=USNews-DropDown",
+                                            "target": "_blank"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        "permalink": "",
+                        "url_patterns": []
+                    },
+                    {
+                        "cms_taxon_children_empty": true,
+                        "link": {
+                            "pull_cta_url": false,
+                            "pull_short_headline": false,
+                            "new_window": false,
+                            "content_reference_id": "00000142-928b-d33c-abc6-ff9fed0a0000",
+                            "text": "Grad Schools",
+                            "data_tracking_dmp": false,
+                            "permalink": "",
+                            "type": "internal-profile",
+                            "url": "https://www.usnews.com/best-graduate-schools",
+                            "campaign_id": "Best Graduate Schools"
+                        },
+                        "mega_menu_dropdown": {
+                            "template": "mega-menu.lite.nunj",
+                            "dropdown_type": "lite",
+                            "permalink": "",
+                            "items": [
+                                {
+                                    "heading": {
+                                        "override_lookup": false,
+                                        "new_window": false,
+                                        "text": "Rankings",
+                                        "data_tracking_dmp": false,
+                                        "permalink": "",
+                                        "type": "external"
+                                    },
+                                    "links": [
+                                        {
+                                            "pull_cta_url": false,
+                                            "pull_short_headline": false,
+                                            "new_window": false,
+                                            "content_reference_id": "00000142-928c-d33c-abc6-ff9d02f70000",
+                                            "text": "Business (MBA)",
+                                            "data_tracking_dmp": false,
+                                            "permalink": "",
+                                            "type": "internal-profile",
+                                            "url": "https://www.usnews.com/best-graduate-schools/top-business-schools",
+                                            "campaign_id": "Top Business Schools"
+                                        },
+                                        {
+                                            "pull_cta_url": false,
+                                            "pull_short_headline": false,
+                                            "new_window": false,
+                                            "content_reference_id": "00000142-928c-d33c-abc6-ff9d041d0000",
+                                            "text": "Education",
+                                            "data_tracking_dmp": false,
+                                            "permalink": "",
+                                            "type": "internal-profile",
+                                            "url": "https://www.usnews.com/best-graduate-schools/top-education-schools",
+                                            "campaign_id": "Top Graduate Education Schools"
+                                        },
+                                        {
+                                            "pull_cta_url": false,
+                                            "pull_short_headline": false,
+                                            "new_window": false,
+                                            "content_reference_id": "00000142-928c-d33c-abc6-ff9d04360000",
+                                            "text": "Engineering",
+                                            "data_tracking_dmp": false,
+                                            "permalink": "",
+                                            "type": "internal-profile",
+                                            "url": "https://www.usnews.com/best-graduate-schools/top-engineering-schools",
+                                            "campaign_id": "Top Graduate Engineering Schools"
+                                        },
+                                        {
+                                            "pull_cta_url": false,
+                                            "pull_short_headline": false,
+                                            "new_window": false,
+                                            "content_reference_id": "00000142-928c-d33c-abc6-ff9d04c50000",
+                                            "text": "Fine Arts",
+                                            "data_tracking_dmp": false,
+                                            "relations": [],
+                                            "permalink": "",
+                                            "type": "internal-profile",
+                                            "url": "https://www.usnews.com/best-graduate-schools/top-fine-arts-schools",
+                                            "campaign_id": "Top Fine Arts Schools"
+                                        },
+                                        {
+                                            "pull_cta_url": false,
+                                            "pull_short_headline": false,
+                                            "new_window": false,
+                                            "content_reference_id": "00000142-928c-d33c-abc6-ff9d04960000",
+                                            "text": "Health",
+                                            "data_tracking_dmp": false,
+                                            "relations": [],
+                                            "permalink": "",
+                                            "type": "internal-profile",
+                                            "url": "https://www.usnews.com/best-graduate-schools/top-health-schools",
+                                            "campaign_id": "Top Health Schools"
+                                        },
+                                        {
+                                            "pull_cta_url": false,
+                                            "pull_short_headline": false,
+                                            "new_window": false,
+                                            "content_reference_id": "00000142-928c-d33c-abc6-ff9d03b50000",
+                                            "text": "Law",
+                                            "data_tracking_dmp": false,
+                                            "permalink": "",
+                                            "type": "internal-profile",
+                                            "url": "https://www.usnews.com/best-graduate-schools/top-law-schools",
+                                            "campaign_id": "Top Law Schools"
+                                        },
+                                        {
+                                            "pull_cta_url": false,
+                                            "pull_short_headline": false,
+                                            "new_window": false,
+                                            "content_reference_id": "00000142-928c-d33c-abc6-ff9d04640000",
+                                            "text": "Library Studies",
+                                            "data_tracking_dmp": false,
+                                            "relations": [],
+                                            "permalink": "",
+                                            "type": "internal-profile",
+                                            "url": "https://www.usnews.com/best-graduate-schools/top-library-information-science-programs",
+                                            "campaign_id": "Top Library and Information Studies Schools"
+                                        },
+                                        {
+                                            "pull_cta_url": false,
+                                            "pull_short_headline": false,
+                                            "new_window": false,
+                                            "content_reference_id": "00000142-928c-d33c-abc6-ff9d03780000",
+                                            "text": "Medicine",
+                                            "data_tracking_dmp": false,
+                                            "permalink": "",
+                                            "type": "internal-profile",
+                                            "url": "https://www.usnews.com/best-graduate-schools/top-medical-schools",
+                                            "campaign_id": "Top Medical Schools"
+                                        },
+                                        {
+                                            "pull_cta_url": false,
+                                            "pull_short_headline": false,
+                                            "new_window": false,
+                                            "content_reference_id": "0000014b-5af3-dee3-ad4b-7ffb33340000",
+                                            "text": "Nursing",
+                                            "data_tracking_dmp": false,
+                                            "permalink": "",
+                                            "type": "internal-profile",
+                                            "url": "https://www.usnews.com/best-graduate-schools/top-nursing-schools",
+                                            "campaign_id": "Top Nursing Schools"
+                                        },
+                                        {
+                                            "pull_cta_url": false,
+                                            "pull_short_headline": false,
+                                            "new_window": false,
+                                            "content_reference_id": "00000142-928c-d33c-abc6-ff9d04ad0000",
+                                            "text": "Public Affairs",
+                                            "data_tracking_dmp": false,
+                                            "relations": [],
+                                            "permalink": "",
+                                            "type": "internal-profile",
+                                            "url": "https://www.usnews.com/best-graduate-schools/top-public-affairs-schools",
+                                            "campaign_id": "Top Public Affairs Schools"
+                                        },
+                                        {
+                                            "pull_cta_url": false,
+                                            "pull_short_headline": false,
+                                            "new_window": false,
+                                            "content_reference_id": "00000142-928c-d33c-abc6-ff9d044d0000",
+                                            "text": "Science",
+                                            "data_tracking_dmp": false,
+                                            "relations": [],
+                                            "permalink": "",
+                                            "type": "internal-profile",
+                                            "url": "https://www.usnews.com/best-graduate-schools/top-science-schools",
+                                            "campaign_id": "Top Science Schools"
+                                        },
+                                        {
+                                            "pull_cta_url": false,
+                                            "pull_short_headline": false,
+                                            "new_window": false,
+                                            "content_reference_id": "00000142-928c-d33c-abc6-ff9d047c0000",
+                                            "text": "Social Sciences and Humanities",
+                                            "data_tracking_dmp": false,
+                                            "relations": [],
+                                            "permalink": "",
+                                            "type": "internal-profile",
+                                            "url": "https://www.usnews.com/best-graduate-schools/top-humanities-schools",
+                                            "campaign_id": "Top Social Sciences and Humanities Schools"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "heading": {
+                                        "override_lookup": false,
+                                        "new_window": false,
+                                        "text": "Tools",
+                                        "data_tracking_dmp": false,
+                                        "permalink": "",
+                                        "type": "external"
+                                    },
+                                    "links": [
+                                        {
+                                            "override_lookup": false,
+                                            "new_window": false,
+                                            "text": "Compare Graduate Schools",
+                                            "data_tracking_dmp": false,
+                                            "relations": [],
+                                            "permalink": "",
+                                            "type": "external",
+                                            "url": "/best-graduate-schools/compare"
+                                        },
+                                        {
+                                            "override_lookup": false,
+                                            "new_window": false,
+                                            "text": "Search for Graduate Schools",
+                                            "data_tracking_dmp": false,
+                                            "relations": [],
+                                            "permalink": "",
+                                            "type": "external",
+                                            "url": "/best-graduate-schools/search"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "heading": {
+                                        "override_lookup": false,
+                                        "new_window": false,
+                                        "text": "Advice",
+                                        "data_tracking_dmp": false,
+                                        "permalink": "",
+                                        "type": "external"
+                                    },
+                                    "links": [
+                                        {
+                                            "pull_cta_url": false,
+                                            "pull_short_headline": false,
+                                            "new_window": false,
+                                            "content_reference_id": "00000142-928c-d33c-abc6-ff9d02a40000",
+                                            "data_tracking_dmp": false,
+                                            "text": "Applying to Graduate School ",
+                                            "permalink": "",
+                                            "type": "internal-profile",
+                                            "url": "https://www.usnews.com/education/best-graduate-schools/top-graduate-schools/applying",
+                                            "campaign_id": "Applying to Graduate School "
+                                        },
+                                        {
+                                            "pull_cta_url": false,
+                                            "pull_short_headline": false,
+                                            "new_window": false,
+                                            "content_reference_id": "00000142-928c-d33c-abc6-ff9d02df0000",
+                                            "data_tracking_dmp": false,
+                                            "text": "Paying for Graduate School ",
+                                            "permalink": "",
+                                            "type": "internal-profile",
+                                            "url": "https://www.usnews.com/education/best-graduate-schools/top-graduate-schools/paying",
+                                            "campaign_id": "Paying for Graduate School "
+                                        },
+                                        {
+                                            "pull_cta_url": false,
+                                            "pull_short_headline": false,
+                                            "new_window": false,
+                                            "content_reference_id": "00000142-928c-d33c-abc6-ff9d02c70000",
+                                            "data_tracking_dmp": false,
+                                            "text": "About the GRE",
+                                            "permalink": "",
+                                            "type": "internal-profile",
+                                            "url": "https://www.usnews.com/education/best-graduate-schools/top-graduate-schools/gre",
+                                            "campaign_id": "About the GRE"
+                                        },
+                                        {
+                                            "pull_cta_url": false,
+                                            "pull_short_headline": false,
+                                            "new_window": false,
+                                            "content_reference_id": "00000143-d5a9-dddc-a3cf-fdbf90f00000",
+                                            "text": "Studying at a U.S. Grad School",
+                                            "data_tracking_dmp": false,
+                                            "permalink": "",
+                                            "type": "internal-profile",
+                                            "url": "https://www.usnews.com/education/best-colleges/studying-in-the-united-states/features/studying-at-a-us-graduate-school",
+                                            "campaign_id": "Studying at a U.S. Graduate School"
+                                        },
+                                        {
+                                            "pull_cta_url": false,
+                                            "pull_short_headline": false,
+                                            "new_window": false,
+                                            "content_reference_id": "00000160-c75c-dc06-a5f5-ff5ffddf0000",
+                                            "text": "All Graduate School Advice",
+                                            "data_tracking_dmp": false,
+                                            "permalink": "",
+                                            "type": "internal-profile",
+                                            "url": "https://www.usnews.com/best-graduate-schools/advice",
+                                            "campaign_id": "Best Graduate Schools Advice Landing"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        "permalink": "",
+                        "url_patterns": []
+                    },
+                    {
+                        "cms_taxon_children_empty": true,
+                        "link": {
+                            "pull_cta_url": false,
+                            "pull_short_headline": false,
+                            "new_window": false,
+                            "content_reference_id": "00000142-928b-d33c-abc6-ff9ffe980000",
+                            "text": "Online Colleges",
+                            "data_tracking_dmp": false,
+                            "permalink": "",
+                            "type": "internal-profile",
+                            "url": "https://www.usnews.com/education/online-education",
+                            "campaign_id": "Online Colleges"
+                        },
+                        "mega_menu_dropdown": {
+                            "template": "mega-menu.lite.nunj",
+                            "dropdown_type": "lite",
+                            "permalink": "",
+                            "items": [
+                                {
+                                    "heading": {
+                                        "override_lookup": false,
+                                        "new_window": false,
+                                        "text": "Rankings",
+                                        "data_tracking_dmp": false,
+                                        "permalink": "",
+                                        "type": "external",
+                                        "url": "/education/online-education/rankings"
+                                    },
+                                    "links": [
+                                        {
+                                            "pull_cta_url": false,
+                                            "pull_short_headline": false,
+                                            "new_window": false,
+                                            "text": "Online Bachelor's Programs",
+                                            "data_tracking_dmp": false,
+                                            "permalink": "",
+                                            "type": "internal-profile",
+                                            "url": "https://www.usnews.com/education/online-education/bachelors",
+                                            "campaign_id": "bachelors"
+                                        },
+                                        {
+                                            "pull_cta_url": false,
+                                            "pull_short_headline": false,
+                                            "new_window": false,
+                                            "text": "Online Master's Programs",
+                                            "data_tracking_dmp": false,
+                                            "permalink": "",
+                                            "type": "internal-profile",
+                                            "url": "https://www.usnews.com/education/online-education/graduate",
+                                            "campaign_id": "graduate"
+                                        },
+                                        {
+                                            "pull_cta_url": false,
+                                            "pull_short_headline": false,
+                                            "new_window": false,
+                                            "text": "Online MBA & Grad Business Programs",
+                                            "data_tracking_dmp": false,
+                                            "permalink": "",
+                                            "type": "internal-profile",
+                                            "url": "https://www.usnews.com/education/online-education/mba",
+                                            "campaign_id": "mba"
+                                        },
+                                        {
+                                            "pull_cta_url": false,
+                                            "pull_short_headline": false,
+                                            "new_window": false,
+                                            "text": "Online Grad Nursing Programs",
+                                            "data_tracking_dmp": false,
+                                            "permalink": "",
+                                            "type": "internal-profile",
+                                            "url": "https://www.usnews.com/education/online-education/nursing",
+                                            "campaign_id": "nursing"
+                                        },
+                                        {
+                                            "override_lookup": false,
+                                            "new_window": false,
+                                            "text": "Online Undergraduate Degrees",
+                                            "data_tracking_dmp": false,
+                                            "permalink": "",
+                                            "type": "external",
+                                            "url": "/education/online-education/undergraduate-degree-profiles"
+                                        },
+                                        {
+                                            "override_lookup": false,
+                                            "new_window": false,
+                                            "text": "Online Graduate Degrees",
+                                            "data_tracking_dmp": false,
+                                            "permalink": "",
+                                            "type": "external",
+                                            "url": "/education/online-education/graduate-degree-profiles"
+                                        },
+                                        {
+                                            "override_lookup": false,
+                                            "new_window": false,
+                                            "text": "See all Online College Rankings",
+                                            "data_tracking_dmp": false,
+                                            "relations": [],
+                                            "permalink": "",
+                                            "type": "external",
+                                            "url": "/education/online-education/rankings"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "heading": {
+                                        "override_lookup": false,
+                                        "new_window": false,
+                                        "text": "Tools",
+                                        "data_tracking_dmp": false,
+                                        "permalink": "",
+                                        "type": "external"
+                                    },
+                                    "links": [
+                                        {
+                                            "override_lookup": false,
+                                            "new_window": false,
+                                            "text": "Search for Online Programs",
+                                            "data_tracking_dmp": false,
+                                            "relations": [],
+                                            "permalink": "",
+                                            "type": "external",
+                                            "url": "/education/online-education/online-search"
+                                        },
+                                        {
+                                            "override_lookup": false,
+                                            "new_window": false,
+                                            "text": "Compare Online Programs",
+                                            "data_tracking_dmp": false,
+                                            "relations": [],
+                                            "permalink": "",
+                                            "type": "external",
+                                            "url": "/education/online-education/compare"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "heading": {
+                                        "pull_cta_url": false,
+                                        "pull_short_headline": false,
+                                        "new_window": false,
+                                        "text": "Advice",
+                                        "data_tracking_dmp": false,
+                                        "permalink": "",
+                                        "type": "internal-profile",
+                                        "url": "https://www.usnews.com/education/online-education/advice",
+                                        "campaign_id": "Online Education Advice"
+                                    },
+                                    "links": [
+                                        {
+                                            "pull_cta_url": false,
+                                            "pull_short_headline": false,
+                                            "new_window": false,
+                                            "content_reference_id": "00000143-d982-d4e5-a1d3-ffd287360000",
+                                            "data_tracking_dmp": false,
+                                            "text": "Paying for Online Education",
+                                            "permalink": "",
+                                            "type": "internal-profile",
+                                            "url": "https://www.usnews.com/education/online-education/features/paying-for-online-education",
+                                            "campaign_id": "Paying for Online Education"
+                                        },
+                                        {
+                                            "pull_cta_url": false,
+                                            "pull_short_headline": false,
+                                            "new_window": false,
+                                            "content_reference_id": "0000014b-0d67-d34a-ab7b-5de736f50000",
+                                            "data_tracking_dmp": false,
+                                            "text": "The Short List: Online Programs",
+                                            "permalink": "",
+                                            "type": "internal-profile",
+                                            "url": "https://www.usnews.com/education/online-education/the-short-list-online-programs",
+                                            "campaign_id": "The Short List: Online Programs"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        "permalink": "",
+                        "url_patterns": []
+                    },
+                    {
+                        "cms_taxon_children_empty": true,
+                        "link": {
+                            "pull_cta_url": false,
+                            "pull_short_headline": false,
+                            "new_window": false,
+                            "content_reference_id": "00000149-3e21-db52-a5db-ffef15440000",
+                            "text": "Global Universities",
+                            "data_tracking_dmp": false,
+                            "permalink": "",
+                            "type": "internal-profile",
+                            "url": "https://www.usnews.com/education/best-global-universities",
+                            "campaign_id": "Best Global Universities"
+                        },
+                        "mega_menu_dropdown": {
+                            "template": "mega-menu.lite.nunj",
+                            "dropdown_type": "lite",
+                            "permalink": "",
+                            "items": [
+                                {
+                                    "heading": {
+                                        "override_lookup": false,
+                                        "new_window": false,
+                                        "text": "Rankings",
+                                        "data_tracking_dmp": false,
+                                        "permalink": "",
+                                        "type": "external"
+                                    },
+                                    "links": [
+                                        {
+                                            "override_lookup": false,
+                                            "new_window": false,
+                                            "text": "Global Universities",
+                                            "data_tracking_dmp": false,
+                                            "permalink": "",
+                                            "type": "external",
+                                            "url": "/education/best-global-universities/rankings"
+                                        },
+                                        {
+                                            "override_lookup": false,
+                                            "new_window": false,
+                                            "text": "Universities in Africa",
+                                            "data_tracking_dmp": false,
+                                            "permalink": "",
+                                            "type": "external",
+                                            "url": "/education/best-global-universities/africa"
+                                        },
+                                        {
+                                            "override_lookup": false,
+                                            "new_window": false,
+                                            "text": "Universities in Asia",
+                                            "data_tracking_dmp": false,
+                                            "permalink": "",
+                                            "type": "external",
+                                            "url": "/education/best-global-universities/asia"
+                                        },
+                                        {
+                                            "override_lookup": false,
+                                            "new_window": false,
+                                            "text": "Universities in Australia/New Zealand",
+                                            "data_tracking_dmp": false,
+                                            "permalink": "",
+                                            "type": "external",
+                                            "url": "/education/best-global-universities/australia-new-zealand"
+                                        },
+                                        {
+                                            "override_lookup": false,
+                                            "new_window": false,
+                                            "text": "Universities in Europe",
+                                            "data_tracking_dmp": false,
+                                            "permalink": "",
+                                            "type": "external",
+                                            "url": "/education/best-global-universities/europe"
+                                        },
+                                        {
+                                            "override_lookup": false,
+                                            "new_window": false,
+                                            "text": "Universities in Latin America",
+                                            "data_tracking_dmp": false,
+                                            "permalink": "",
+                                            "type": "external",
+                                            "url": "/education/best-global-universities/latin-america"
+                                        },
+                                        {
+                                            "override_lookup": false,
+                                            "new_window": false,
+                                            "text": "Search for Global Universities",
+                                            "data_tracking_dmp": false,
+                                            "permalink": "",
+                                            "type": "external",
+                                            "url": "/education/best-global-universities/search"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "heading": {
+                                        "override_lookup": false,
+                                        "new_window": false,
+                                        "text": "Advice",
+                                        "data_tracking_dmp": false,
+                                        "permalink": "",
+                                        "type": "external"
+                                    },
+                                    "links": [
+                                        {
+                                            "pull_cta_url": false,
+                                            "pull_short_headline": false,
+                                            "new_window": false,
+                                            "content_reference_id": "0000016f-8c85-d55e-abff-8ecd36d40000",
+                                            "text": "Studying at Global Universities",
+                                            "data_tracking_dmp": false,
+                                            "permalink": "",
+                                            "type": "internal-profile",
+                                            "url": "https://www.usnews.com/education/best-global-universities/advice",
+                                            "campaign_id": "Global Universities Advice"
+                                        },
+                                        {
+                                            "pull_cta_url": false,
+                                            "pull_short_headline": false,
+                                            "new_window": false,
+                                            "content_reference_id": "00000142-928c-d33c-abc6-ff9d06d60000",
+                                            "text": "Studying at a U.S. College",
+                                            "data_tracking_dmp": false,
+                                            "permalink": "",
+                                            "type": "internal-profile",
+                                            "url": "https://www.usnews.com/education/best-colleges/studying-in-the-united-states",
+                                            "campaign_id": "Studying in the United States"
+                                        },
+                                        {
+                                            "pull_cta_url": false,
+                                            "pull_short_headline": false,
+                                            "new_window": false,
+                                            "content_reference_id": "00000143-d5a9-dddc-a3cf-fdbf90f00000",
+                                            "text": "Studying at a U.S. Grad School",
+                                            "data_tracking_dmp": false,
+                                            "permalink": "",
+                                            "type": "internal-profile",
+                                            "url": "https://www.usnews.com/education/best-colleges/studying-in-the-united-states/features/studying-at-a-us-graduate-school",
+                                            "campaign_id": "Studying at a U.S. Graduate School"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        "permalink": "",
+                        "url_patterns": []
+                    },
+                    {
+                        "cms_taxon_children_empty": true,
+                        "link": {
+                            "pull_cta_url": false,
+                            "pull_short_headline": false,
+                            "new_window": false,
+                            "content_reference_id": "00000175-c2e2-da80-a97f-c2ffa01e0000",
+                            "text": "K-12",
+                            "data_tracking_dmp": false,
+                            "relations": [],
+                            "permalink": "",
+                            "type": "internal-profile",
+                            "url": "https://www.usnews.com/education/k12",
+                            "campaign_id": "K-12 Schools"
+                        },
+                        "mega_menu_dropdown": {
+                            "template": "mega-menu.lite.nunj",
+                            "dropdown_type": "lite",
+                            "permalink": "",
+                            "items": [
+                                {
+                                    "heading": {
+                                        "override_lookup": false,
+                                        "new_window": false,
+                                        "text": "K-12",
+                                        "data_tracking_dmp": false,
+                                        "permalink": "",
+                                        "type": "external"
+                                    },
+                                    "links": [
+                                        {
+                                            "override_lookup": false,
+                                            "new_window": false,
+                                            "text": "Preschools",
+                                            "data_tracking_dmp": false,
+                                            "relations": [],
+                                            "permalink": "",
+                                            "type": "external",
+                                            "url": "/education/k12/preschool"
+                                        },
+                                        {
+                                            "override_lookup": false,
+                                            "new_window": false,
+                                            "text": "Elementary Schools",
+                                            "data_tracking_dmp": false,
+                                            "relations": [],
+                                            "permalink": "",
+                                            "type": "external",
+                                            "url": "/education/k12/elementary-school"
+                                        },
+                                        {
+                                            "override_lookup": false,
+                                            "new_window": false,
+                                            "text": "Middle Schools",
+                                            "data_tracking_dmp": false,
+                                            "relations": [],
+                                            "permalink": "",
+                                            "type": "external",
+                                            "url": "/education/k12/middle-school"
+                                        },
+                                        {
+                                            "pull_cta_url": false,
+                                            "pull_short_headline": false,
+                                            "new_window": false,
+                                            "content_reference_id": "00000153-43ac-dd05-adf3-f3ad48db0000",
+                                            "text": "High Schools",
+                                            "data_tracking_dmp": false,
+                                            "permalink": "",
+                                            "type": "internal-profile",
+                                            "url": "https://www.usnews.com/education/best-high-schools",
+                                            "campaign_id": "High Schools"
+                                        },
+                                        {
+                                            "override_lookup": false,
+                                            "new_window": true,
+                                            "text": "Summer Programs",
+                                            "data_tracking_dmp": false,
+                                            "permalink": "",
+                                            "type": "external",
+                                            "url": "https://www.teenlife.com/category/summer",
+                                            "target": "_blank"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "heading": {
+                                        "override_lookup": false,
+                                        "new_window": false,
+                                        "text": "Private Schools",
+                                        "data_tracking_dmp": false,
+                                        "permalink": "",
+                                        "type": "external"
+                                    },
+                                    "links": [
+                                        {
+                                            "override_lookup": false,
+                                            "new_window": false,
+                                            "text": "Search Private Schools",
+                                            "data_tracking_dmp": false,
+                                            "relations": [],
+                                            "permalink": "",
+                                            "type": "external",
+                                            "url": "https://www.usnews.com/education/k12/search?school-type=private"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "heading": {
+                                        "override_lookup": false,
+                                        "new_window": false,
+                                        "text": "Advice",
+                                        "data_tracking_dmp": false,
+                                        "permalink": "",
+                                        "type": "external"
+                                    },
+                                    "links": [
+                                        {
+                                            "pull_cta_url": false,
+                                            "pull_short_headline": false,
+                                            "new_window": false,
+                                            "content_reference_id": "00000157-bbbe-d2be-ad5f-ffffe9c40000",
+                                            "data_tracking_dmp": false,
+                                            "text": "High Schools Advice",
+                                            "permalink": "",
+                                            "type": "internal-profile",
+                                            "url": "https://www.usnews.com/education/best-high-schools/advice",
+                                            "campaign_id": "High Schools Advice"
+                                        },
+                                        {
+                                            "pull_cta_url": false,
+                                            "pull_short_headline": false,
+                                            "new_window": false,
+                                            "content_reference_id": "0000017b-cb47-de66-abfb-cfd7b2870000",
+                                            "text": "K-8",
+                                            "data_tracking_dmp": false,
+                                            "relations": [],
+                                            "permalink": "",
+                                            "type": "internal-profile",
+                                            "url": "https://www.usnews.com/education/k-8/advice",
+                                            "campaign_id": "K-8 Advice"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        "permalink": "",
+                        "url_patterns": []
+                    },
+                    {
+                        "cms_taxon_children_empty": true,
+                        "link": {
+                            "pull_cta_url": false,
+                            "pull_short_headline": false,
+                            "new_window": false,
+                            "content_reference_id": "00000168-3e17-d4ef-af78-bfbfa03c0000",
+                            "text": "Rankings",
+                            "data_tracking_dmp": false,
+                            "relations": [],
+                            "permalink": "",
+                            "type": "internal-profile",
+                            "url": "https://www.usnews.com/education/rankings",
+                            "campaign_id": " School Rankings Lists & Methodology - US News"
+                        },
+                        "mega_menu_dropdown": {
+                            "template": "mega-menu.lite.nunj",
+                            "dropdown_type": "lite",
+                            "permalink": "",
+                            "items": [
+                                {
+                                    "links": [
+                                        {
+                                            "override_lookup": false,
+                                            "new_window": false,
+                                            "text": "College Rankings",
+                                            "data_tracking_dmp": false,
+                                            "relations": [],
+                                            "permalink": "",
+                                            "type": "external",
+                                            "url": "/best-colleges/rankings"
+                                        },
+                                        {
+                                            "override_lookup": false,
+                                            "new_window": false,
+                                            "text": "Graduate School Rankings",
+                                            "data_tracking_dmp": false,
+                                            "relations": [],
+                                            "permalink": "",
+                                            "type": "external",
+                                            "url": "/best-graduate-schools/rankings"
+                                        },
+                                        {
+                                            "override_lookup": false,
+                                            "new_window": false,
+                                            "text": "Online College Rankings",
+                                            "data_tracking_dmp": false,
+                                            "relations": [],
+                                            "permalink": "",
+                                            "type": "external",
+                                            "url": "/education/online-education/rankings"
+                                        },
+                                        {
+                                            "override_lookup": false,
+                                            "new_window": false,
+                                            "text": "Global University Rankings",
+                                            "data_tracking_dmp": false,
+                                            "relations": [],
+                                            "permalink": "",
+                                            "type": "external",
+                                            "url": "/education/best-global-universities/rankings"
+                                        },
+                                        {
+                                            "override_lookup": false,
+                                            "new_window": false,
+                                            "text": "High School Rankings",
+                                            "data_tracking_dmp": false,
+                                            "relations": [],
+                                            "permalink": "",
+                                            "type": "external",
+                                            "url": "/education/best-high-schools/rankings-overview"
+                                        },
+                                        {
+                                            "pull_cta_url": false,
+                                            "pull_short_headline": false,
+                                            "new_window": false,
+                                            "content_reference_id": "00000175-c2e2-da80-a97f-c2ffa01e0000",
+                                            "text": "K-8 Schools Rankings",
+                                            "data_tracking_dmp": false,
+                                            "relations": [],
+                                            "permalink": "",
+                                            "type": "internal-profile",
+                                            "url": "https://www.usnews.com/education/k12",
+                                            "campaign_id": "K-12 Schools"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        "permalink": "",
+                        "url_patterns": []
+                    },
+                    {
+                        "cms_taxon_children_empty": true,
+                        "link": {
+                            "pull_cta_url": false,
+                            "pull_short_headline": false,
+                            "new_window": false,
+                            "content_reference_id": "00000190-a836-d960-a993-bbf7c8890001",
+                            "data_tracking_dmp": false,
+                            "text": "Scholarships and Finances",
+                            "permalink": "",
+                            "type": "internal-profile",
+                            "url": "https://www.usnews.com/education/scholarships/search",
+                            "campaign_id": "Scholarships and Finances"
+                        },
+                        "mega_menu_dropdown": {
+                            "template": "mega-menu.lite.nunj",
+                            "dropdown_type": "lite",
+                            "permalink": "",
+                            "items": [
+                                {
+                                    "heading": {
+                                        "override_lookup": false,
+                                        "new_window": false,
+                                        "text": "Scholarships",
+                                        "data_tracking_dmp": false,
+                                        "permalink": "",
+                                        "type": "external"
+                                    },
+                                    "links": [
+                                        {
+                                            "pull_cta_url": false,
+                                            "pull_short_headline": false,
+                                            "new_window": false,
+                                            "text": "Scholarship Finder",
+                                            "data_tracking_dmp": false,
+                                            "permalink": "",
+                                            "type": "internal-profile",
+                                            "url": "https://www.usnews.com/education/scholarships/search",
+                                            "campaign_id": "Scholarships and Finances"
+                                        },
+                                        {
+                                            "pull_cta_url": false,
+                                            "pull_short_headline": false,
+                                            "new_window": false,
+                                            "content_reference_id": "00000190-a861-d67f-a997-fce348090001",
+                                            "data_tracking_dmp": false,
+                                            "text": "Scholarships for College",
+                                            "permalink": "",
+                                            "type": "internal-profile",
+                                            "url": "https://www.usnews.com/education/scholarships/search?student-type=high school&student-type=undergraduate&sort=deadline-desc",
+                                            "campaign_id": "Scholarships for College"
+                                        },
+                                        {
+                                            "pull_cta_url": false,
+                                            "pull_short_headline": false,
+                                            "new_window": false,
+                                            "content_reference_id": "00000190-a862-d082-a5d1-ab63233c0001",
+                                            "data_tracking_dmp": false,
+                                            "text": "Scholarships for Graduate School",
+                                            "permalink": "",
+                                            "type": "internal-profile",
+                                            "url": "https://www.usnews.com/education/scholarships/search?student-type=doctorate&student-type=graduate&student-type=master%27s&student-type=undergraduate&sort=deadline-desc",
+                                            "campaign_id": "Scholarships for Graduate School"
+                                        },
+                                        {
+                                            "pull_cta_url": false,
+                                            "pull_short_headline": false,
+                                            "new_window": false,
+                                            "content_reference_id": "00000191-7a1b-d1cc-a393-febbc3e10002",
+                                            "data_tracking_dmp": false,
+                                            "text": "No-Essay Scholarships",
+                                            "permalink": "",
+                                            "type": "internal-profile",
+                                            "url": "https://www.usnews.com/education/scholarships/search?requirement=No%20Essay&sort=deadline-desc",
+                                            "campaign_id": "No-Essay Scholarships"
+                                        },
+                                        {
+                                            "pull_cta_url": false,
+                                            "pull_short_headline": false,
+                                            "new_window": false,
+                                            "content_reference_id": "00000191-7a47-d1cc-a393-feef3f190001",
+                                            "data_tracking_dmp": false,
+                                            "text": "Need-Based Scholarships",
+                                            "permalink": "",
+                                            "type": "internal-profile",
+                                            "url": "https://www.usnews.com/education/scholarships/search?eligibility-criteria=Need-Based%20Aid&sort=deadline-desc",
+                                            "campaign_id": "Need-Based Scholarships"
+                                        },
+                                        {
+                                            "pull_cta_url": false,
+                                            "pull_short_headline": false,
+                                            "new_window": false,
+                                            "content_reference_id": "00000191-7a26-d958-afb7-7b377cf70004",
+                                            "data_tracking_dmp": false,
+                                            "text": "Merit-Based Scholarships",
+                                            "permalink": "",
+                                            "type": "internal-profile",
+                                            "url": "https://www.usnews.com/education/scholarships/search?eligibility-criteria=Merit-Based%20Aid&sort=deadline-desc",
+                                            "campaign_id": "Merit-Based Scholarships"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "heading": {
+                                        "override_lookup": false,
+                                        "new_window": false,
+                                        "text": "Advice",
+                                        "data_tracking_dmp": false,
+                                        "permalink": "",
+                                        "type": "external"
+                                    },
+                                    "links": [
+                                        {
+                                            "pull_cta_url": false,
+                                            "pull_short_headline": false,
+                                            "new_window": false,
+                                            "data_tracking_dmp": false,
+                                            "text": "Paying for College",
+                                            "permalink": "",
+                                            "type": "internal-profile",
+                                            "url": "https://www.usnews.com/education/best-colleges/paying-for-college",
+                                            "campaign_id": "Paying for College"
+                                        },
+                                        {
+                                            "pull_cta_url": false,
+                                            "pull_short_headline": false,
+                                            "new_window": false,
+                                            "text": "Paying for Graduate School",
+                                            "data_tracking_dmp": false,
+                                            "permalink": "",
+                                            "type": "internal-profile",
+                                            "url": "https://www.usnews.com/education/best-graduate-schools/top-graduate-schools/paying",
+                                            "campaign_id": "Paying for Graduate School "
+                                        },
+                                        {
+                                            "pull_cta_url": false,
+                                            "pull_short_headline": false,
+                                            "new_window": false,
+                                            "text": "Student Loans",
+                                            "data_tracking_dmp": false,
+                                            "permalink": "",
+                                            "type": "internal-profile",
+                                            "url": "https://www.usnews.com/education/best-colleges/paying-for-college/student-loan",
+                                            "campaign_id": "College Loan Center "
+                                        },
+                                        {
+                                            "pull_cta_url": false,
+                                            "pull_short_headline": false,
+                                            "new_window": false,
+                                            "data_tracking_dmp": false,
+                                            "text": "Student Credit Cards",
+                                            "permalink": "",
+                                            "type": "internal-profile",
+                                            "url": "https://www.usnews.com/topics/subjects/student-credit-cards",
+                                            "campaign_id": "Student Credit Cards"
+                                        },
+                                        {
+                                            "pull_cta_url": false,
+                                            "pull_short_headline": false,
+                                            "new_window": false,
+                                            "text": "All Financial Advice",
+                                            "data_tracking_dmp": false,
+                                            "permalink": "",
+                                            "type": "internal-profile",
+                                            "url": "https://money.usnews.com/money/personal-finance",
+                                            "campaign_id": "Personal Finance"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        "permalink": ""
+                    }
+                ],
+                "cms_taxon_root": true,
+                "permalink": ""
+            }
+        },
+        "hide_vertical_link": false,
+        "cms_seo_keywords": [],
+        "id": "00000155-c679-d425-ad5d-ee7fc7030002",
+        "title": "Education",
+        "login": true,
+        "hide_global_sublinks": false,
+        "cms_seo_robots": [],
+        "permalink": "https://www.usnews.com/education",
+        "base_link": {
+            "pull_cta_url": false,
+            "pull_short_headline": false,
+            "new_window": false,
+            "content_reference_id": "00000142-928b-d33c-abc6-ff9fe7600000",
+            "text": "Education",
+            "data_tracking_dmp": false,
+            "permalink": "",
+            "type": "internal-profile",
+            "url": "https://www.usnews.com/education",
+            "campaign_id": "Education"
+        }
+    },
+    "settings": {
+        "vwo": {
+            "checked": false
+        }
+    },
+    "items": [
+        {
+            "url": "https://www.usnews.com/education/best-global-universities/harvard-university-166027",
+            "id": 166027,
+            "name": "Harvard University",
+            "city": "Cambridge (U.S.)",
+            "country_name": "United States",
+            "three_digit_country_code": "USA",
+            "ranks": [
+                {
+                    "value": "1",
+                    "is_tied": false,
+                    "is_ranked": true,
+                    "label": "Best Global Universities"
+                }
+            ],
+            "stats": [
+                {
+                    "value": "100.0",
+                    "label": "Global Score"
+                },
+                {
+                    "value": "22,608",
+                    "label": "Enrollment"
+                }
+            ],
+            "image_url": {
+                "src": "https://www.usnews.com/object/image/0000014e-d02b-d0b6-afdf-d03b72820000/$150727harvard?size=responsive300&update-time=1444057405951",
+                "medium": "https://www.usnews.com/object/image/0000014e-d02b-d0b6-afdf-d03b72820000/$150727harvard?size=responsive300&update-time=1444057405951",
+                "large": "https://www.usnews.com/object/image/0000014e-d02b-d0b6-afdf-d03b72820000/$150727harvard?size=responsive640&update-time=1444057405951"
+            },
+            "blurb": "Founded in 1636, Harvard University is the oldest higher education institution in the U.S. The bulk of Harvard's students study at the graduate level and more than 20 percent of the student body is international. Harvard is located in Cambridge, Massachusetts, but also has facilities such as the Harvard Medical School based in the nearby city of Boston. The university has the largest endowment of any school in the world. Harvard research takes place across a range of disciplines in more than 100 centers.\n\n The university is made up of the undergraduate college, as well as 11 other degree-granting institutions including the highly ranked Business School, Graduate School of Education, Law School and the John F. Kennedy School of Government. The medical school is affiliated with several teaching hospitals, including Beth Israel Deaconess Medical Center and Brigham and Women\u2019s Hospital. For Harvard undergraduates, the most popular majors include social sciences, biology/biological sciences, history, math and psychology. The university\u2019s academic calendar is semester-based and English is the language of instruction. Most undergraduate students live on campus for all four years, first residing around the Harvard Yard at the center of campus as freshmen and then in one of 12 undergraduate houses for the duration of their studies. Some university housing is available for graduate students. The Harvard Library is the largest academic library in the world, boasting around 19 million volumes at its more than 70 libraries."
+        },
+        {
+            "url": "https://www.usnews.com/education/best-global-universities/massachusetts-institute-of-technology-mit-166683",
+            "id": 166683,
+            "name": "Massachusetts Institute of Technology (MIT)",
+            "city": "Cambridge (U.S.)",
+            "country_name": "United States",
+            "three_digit_country_code": "USA",
+            "ranks": [
+                {
+                    "value": "2",
+                    "is_tied": false,
+                    "is_ranked": true,
+                    "label": "Best Global Universities"
+                }
+            ],
+            "stats": [
+                {
+                    "value": "97.2",
+                    "label": "Global Score"
+                },
+                {
+                    "value": "11,703",
+                    "label": "Enrollment"
+                }
+            ],
+            "image_url": {
+                "src": "https://www.usnews.com/object/image/0000014e-d05f-d0b6-afdf-d05f34b90000/$150727MIT?size=responsive300&update-time=1535646171759",
+                "medium": "https://www.usnews.com/object/image/0000014e-d05f-d0b6-afdf-d05f34b90000/$150727MIT?size=responsive300&update-time=1535646171759",
+                "large": "https://www.usnews.com/object/image/0000014e-d05f-d0b6-afdf-d05f34b90000/$150727MIT?size=responsive640&update-time=1535646171759"
+            },
+            "blurb": "Massachusetts Institute of Technology, founded in 1861, is located in Cambridge, Massachusetts, near Boston. Around 11,000 students attend the university, with roughly 60 percent of them studying at the graduate level. MIT contains five schools: architecture and planning; engineering; humanities, arts, and social sciences; management; and science. English is the language of instruction at MIT. The academic calendar is a 4-1-4 system with a four-week \"Independent Activities Period\" in January. During this period, undergraduate and graduate students, faculty, staff and alumni participate in forums, lecture series, recitals and other special activities. \n\n First-year undergraduate students are the only ones required to live on campus but many students further along in their studies choose to reside on campus as well. There are many opportunities for both undergraduate and graduate students to gain research experience at one of MIT\u2019s many labs or centers, including the MIT Nuclear Reactor Laboratory, one of the largest university research reactors in the U.S. Nearly 90 percent of MIT undergraduates participate in the school\u2019s Undergraduate Research Opportunities Program, which partners students and faculty for research projects, by the time they graduate. More than $675 million was spent on research at MIT in a recent year, with additional federal funding going to MIT\u2019s Lincoln Laboratory, a Department of Defense research and development lab focused on technological solutions to national security issues."
+        },
+        {
+            "url": "https://www.usnews.com/education/best-global-universities/stanford-university-243744",
+            "id": 243744,
+            "name": "Stanford University",
+            "city": "Stanford",
+            "country_name": "United States",
+            "three_digit_country_code": "USA",
+            "ranks": [
+                {
+                    "value": "3",
+                    "is_tied": false,
+                    "is_ranked": true,
+                    "label": "Best Global Universities"
+                }
+            ],
+            "stats": [
+                {
+                    "value": "94.5",
+                    "label": "Global Score"
+                },
+                {
+                    "value": "17,422",
+                    "label": "Enrollment"
+                }
+            ],
+            "image_url": {
+                "src": "https://www.usnews.com/object/image/0000016c-9bb2-d1ec-a97f-9bba269e0000/$190816stanford_university0?size=responsive300&update-time=",
+                "medium": "https://www.usnews.com/object/image/0000016c-9bb2-d1ec-a97f-9bba269e0000/$190816stanford_university0?size=responsive300&update-time=",
+                "large": "https://www.usnews.com/object/image/0000016c-9bb2-d1ec-a97f-9bba269e0000/$190816stanford_university0?size=responsive640&update-time="
+            },
+            "blurb": "Stanford University was founded in 1885 and is located in California\u2019s Bay Area, around 30 miles south of San Francisco. More than half of the student body studies at the graduate level. Seven schools comprise the university, many of which are highly ranked for graduate-level studies. Three of the schools offer both undergraduate and graduate degrees: humanities and sciences; earth sciences; and engineering. The business, law, education and medical schools offer only graduate-level degrees. Stanford\u2019s academic calendar is based on a quarter system and the language of instruction is English.\n\nAround 8 percent of the undergraduate student body is international, as is around 30 percent of the graduate student population. Housing is guaranteed for four years for undergraduates who enter as freshmen, and more than 90 percent of undergrads live on campus. Stanford also guarantees first-year housing for new graduate students. More than 60 percent of graduate students live on campus, as well as around 30 percent of faculty members. Stanford\u2019s library system, which supports 20 libraries, comprises more than 9.3 million physical volumes. Research funding at Stanford has topped $1 billion, including funds from the federal government for projects at the SLAC National Accelerator Laboratory, a U.S. Department of Energy lab operated by Stanford. Scientists from all over the world \u2013 around 3,400 of them annually \u2013 take advantage of SLAC\u2019s facilities. Upward of 1,000 scientific papers based on research conducted at the lab are published each year."
+        },
+        {
+            "url": "https://www.usnews.com/education/best-global-universities/university-of-oxford-503637",
+            "id": 503637,
+            "name": "University of Oxford",
+            "city": "Oxford",
+            "country_name": "United Kingdom",
+            "three_digit_country_code": "GBR",
+            "ranks": [
+                {
+                    "value": "4",
+                    "is_tied": false,
+                    "is_ranked": true,
+                    "label": "Best Global Universities"
+                }
+            ],
+            "stats": [
+                {
+                    "value": "88.3",
+                    "label": "Global Score"
+                },
+                {
+                    "value": "N/A",
+                    "label": "Enrollment"
+                }
+            ],
+            "image_url": {
+                "src": "https://www.usnews.com/object/image/0000014e-d0b5-d0b6-afdf-d0b7fab40000/$150727Oxford?size=responsive300&update-time=1438090160344",
+                "medium": "https://www.usnews.com/object/image/0000014e-d0b5-d0b6-afdf-d0b7fab40000/$150727Oxford?size=responsive300&update-time=1438090160344",
+                "large": "https://www.usnews.com/object/image/0000014e-d0b5-d0b6-afdf-d0b7fab40000/$150727Oxford?size=responsive640&update-time=1438090160344"
+            },
+            "blurb": "The exact date of the University of Oxford\u2019s founding is unknown, but the school traces its roots back to at least 1096. Oxford is located around 60 miles northwest of London, and around 45 percent of its student body is made up of graduate students. More than half of Oxford\u2019s graduate students conduct research as part of their studies. Research at Oxford takes place in all four of its academic divisions: humanities; mathematical, physical and life sciences; medical sciences; and social sciences. Oxford\u2019s academic calendar is divided into three terms \u2013 Michaelmas (fall), Hilary (spring) and Trinity (summer) \u2013 each eight weeks long. The language of instruction at the university is English.\n\n The University of Oxford is made up of a central university; 38 colleges; and six Permanent Private Halls, which tend to be smaller than colleges and offer fewer subjects. The colleges at Oxford are each equipped with a dining hall, common room and library. Undergraduates are guaranteed college housing for their freshman year and can often continue to live there during the later years of their studies. Graduate students are not guaranteed housing but some colleges may have space for them during their first year, especially for international students. Tuition costs are higher for non-European Union students. The university and its academic departments and colleges, as well as dozens of external organizations, have made more than 900 scholarships available for graduate students."
+        },
+        {
+            "url": "https://www.usnews.com/education/best-global-universities/university-of-cambridge-502149",
+            "id": 502149,
+            "name": "University of Cambridge",
+            "city": "Cambridge (U.K.)",
+            "country_name": "United Kingdom",
+            "three_digit_country_code": "GBR",
+            "ranks": [
+                {
+                    "value": "5",
+                    "is_tied": false,
+                    "is_ranked": true,
+                    "label": "Best Global Universities"
+                }
+            ],
+            "stats": [
+                {
+                    "value": "86.8",
+                    "label": "Global Score"
+                },
+                {
+                    "value": "21,140",
+                    "label": "Enrollment"
+                }
+            ],
+            "image_url": {
+                "src": "https://www.usnews.com/object/image/0000014e-d0dd-d0b6-afdf-d0dfa5e00000/$150727Cambridge?size=responsive300&update-time=1475263504175",
+                "medium": "https://www.usnews.com/object/image/0000014e-d0dd-d0b6-afdf-d0dfa5e00000/$150727Cambridge?size=responsive300&update-time=1475263504175",
+                "large": "https://www.usnews.com/object/image/0000014e-d0dd-d0b6-afdf-d0dfa5e00000/$150727Cambridge?size=responsive640&update-time=1475263504175"
+            },
+            "blurb": "The University of Cambridge, located around 60 miles north of London, traces its history back to 1209. Around 19,000 students attend the university and more than 35 percent of them study at the graduate level. There are six schools: arts and humanities; biological sciences; clinical medicine; humanities and social sciences; physical sciences; and technology. Dozens of academic departments and other divisions constitute these schools. The academic calendar at Cambridge is divided into three terms \u2013 Michaelmas (fall), Lent (winter) and Easter (spring). English is the language of instruction at the university.\n\n Cambridge contains 31 residential colleges, which are responsible for admitting undergraduate and graduate students; three colleges \u2013 Lucy Cavendish College, Murray Edwards College and Newnham College \u2013 are women-only. Some small-group instruction for undergraduates also takes place at the colleges. Most undergraduate students at the University of Cambridge are guaranteed college housing for at least three years. Many new graduate students can also utilize college housing. Around 20 percent of the student body is from outside of the European Union; tuition costs are higher for non-EU students and vary depending on the field of study. Cambridge has more than 100 libraries, including college and department libraries. The university has around 140 centers and institutes that contribute to different areas of research, such as the Centre of African Studies; the Cambridge Centre for Economic and Public Policy; and the Institute of Theoretical Geophysics. In a recent year, the university received around $415 million in research grants and contracts."
+        },
+        {
+            "url": "https://www.usnews.com/education/best-global-universities/university-of-california-berkeley-110635",
+            "id": 110635,
+            "name": "University of California Berkeley",
+            "city": "Berkeley",
+            "country_name": "United States",
+            "three_digit_country_code": "USA",
+            "ranks": [
+                {
+                    "value": "6",
+                    "is_tied": false,
+                    "is_ranked": true,
+                    "label": "Best Global Universities"
+                }
+            ],
+            "stats": [
+                {
+                    "value": "86.4",
+                    "label": "Global Score"
+                },
+                {
+                    "value": "42,565",
+                    "label": "Enrollment"
+                }
+            ],
+            "image_url": {
+                "src": "https://www.usnews.com/object/image/0000014e-d06d-d8a0-adee-fffdae2b0000/$150727Berkeley?size=responsive300&update-time=1558448629952",
+                "medium": "https://www.usnews.com/object/image/0000014e-d06d-d8a0-adee-fffdae2b0000/$150727Berkeley?size=responsive300&update-time=1558448629952",
+                "large": "https://www.usnews.com/object/image/0000014e-d06d-d8a0-adee-fffdae2b0000/$150727Berkeley?size=responsive640&update-time=1558448629952"
+            },
+            "blurb": "The University of California\u2014Berkeley is situated roughly 15 miles from San Francisco in what is known as the Bay Area. The public university, also commonly known as Berkeley or Cal, was founded in 1868. More than 70 percent of Berkeley students study at the undergraduate level. The university is divided into 14 colleges and schools, including the highly ranked Haas School of Business, College of Chemistry, College of Engineering, School of Public Health and School of Law. The academic calendar is semester-based and English is the language of instruction.\n\n UC\u2014Berkeley offers students around 350 degree programs. Some of the most popular majors for Berkeley undergraduates have included electrical engineering and computer science; economics; political science; business administration; and psychology. Around a quarter of undergraduate students live on campus, including some 95 percent of freshmen. Many graduate students live off campus, but they have the option to live in university-owned accommodations. Roughly 15 percent of the student body is international, and tuition and fees are higher for out-of-state students. Around 3,000 international scholars come to Berkeley each year in temporary teaching or research positions. Berkeley research is conducted not just within academic department labs and research centers but also in some of the school\u2019s museums and university-managed biological field stations. Research in botany, zoology, ecosystems and forestry is undertaken at the remote field station sites. Berkeley researchers discovered several of the elements on the periodic table, including californium and berkelium."
+        },
+        {
+            "url": "https://www.usnews.com/education/best-global-universities/university-college-london-501693",
+            "id": 501693,
+            "name": "University College London",
+            "city": "London (U.K.)",
+            "country_name": "United Kingdom",
+            "three_digit_country_code": "GBR",
+            "ranks": [
+                {
+                    "value": "7",
+                    "is_tied": false,
+                    "is_ranked": true,
+                    "label": "Best Global Universities"
+                }
+            ],
+            "stats": [
+                {
+                    "value": "86.2",
+                    "label": "Global Score"
+                },
+                {
+                    "value": "44,910",
+                    "label": "Enrollment"
+                }
+            ],
+            "image_url": {
+                "src": "https://www.usnews.com/object/image/00000157-8cae-dca0-ad7f-ccbf42550000/$161003_UCL?size=responsive300&update-time=1475534101225",
+                "medium": "https://www.usnews.com/object/image/00000157-8cae-dca0-ad7f-ccbf42550000/$161003_UCL?size=responsive300&update-time=1475534101225",
+                "large": "https://www.usnews.com/object/image/00000157-8cae-dca0-ad7f-ccbf42550000/$161003_UCL?size=responsive640&update-time=1475534101225"
+            },
+            "blurb": "University College London, or UCL, is a public institution that was founded in 1826. It was the third university established in England, following the University of Oxford and the University of Cambridge. UCL is based in central London, though it also has branch campuses in Qatar and Australia. Additionally, UCL has exchange and research agreements as well as other types of partnerships with universities around the world, such as the University of Montreal in Canada and Zhejiang University in China. UCL students hail from around 150 countries, and tuition costs are higher for students from outside the U.K. and European Union. University housing is guaranteed for first-year undergraduates. The UCL academic calendar has three terms, and the language of instruction is English.\n\nUCL has 11 academic divisions: arts and humanities; brain sciences; engineering; education; laws; life sciences; mathematical and physical sciences; medical sciences; population health sciences; social and historical sciences; and the Bartlett, a division focused on architecture and planning. The university is affiliated with several hospitals and medical centers, such as the University College Hospital and the Royal National Throat, Nose and Ear Hospital. Research takes place across the academic disciplines at UCL, but the main multidisciplinary research domains are neuroscience, personalized medicine, populations and lifelong health, the environment and eResearch. The university has been associated with research accomplishments throughout its history. One example is that a UCL professor won the Nobel Prize in chemistry in 1904 for his discovery of noble gases, including neon gas."
+        },
+        {
+            "url": "https://www.usnews.com/education/best-global-universities/university-of-washington-seattle-236948",
+            "id": 236948,
+            "name": "University of Washington Seattle",
+            "city": "Seattle",
+            "country_name": "United States",
+            "three_digit_country_code": "USA",
+            "ranks": [
+                {
+                    "value": "8",
+                    "is_tied": false,
+                    "is_ranked": true,
+                    "label": "Best Global Universities"
+                }
+            ],
+            "stats": [
+                {
+                    "value": "86.1",
+                    "label": "Global Score"
+                },
+                {
+                    "value": "49,524",
+                    "label": "Enrollment"
+                }
+            ],
+            "image_url": {
+                "src": "https://www.usnews.com/object/image/00000155-82e0-d393-a9f5-fae850c30000/$160624_university_of_washington?size=responsive300&update-time=1466789774392",
+                "medium": "https://www.usnews.com/object/image/00000155-82e0-d393-a9f5-fae850c30000/$160624_university_of_washington?size=responsive300&update-time=1466789774392",
+                "large": "https://www.usnews.com/object/image/00000155-82e0-d393-a9f5-fae850c30000/$160624_university_of_washington?size=responsive640&update-time=1466789774392"
+            },
+            "blurb": "The University of Washington is a public institution that was founded in 1861. The school's oldest and\u00a0largest campus in terms of enrollment is located in Seattle \u2013 the largest city in Washington. In 1990, the university added two smaller campuses in Bothell and Tacoma, Washington. Around 70 percent of the university's students \u2013 across all three campuses \u2013 study at the undergraduate level. Still, the large university offers more than 370 graduate-level programs. Tuition costs are higher for non-Washington-state residents, and university housing is available for both undergraduate and graduate students. UW utilizes a quarter-based academic calendar, and English is the language of instruction. \n\nThe university has 16\u00a0colleges and schools that offer studies in a range of subjects, such as arts and sciences, engineering and social work. Its highly ranked graduate schools include the School of Medicine, School of Nursing and the College of Education. The University of Washington Medical Center, a teaching hospital, is highly ranked in several specialties. The university offers a community-based medical education program that allows students to complete clinical rotations in different states throughout the region - Alaska, Idaho, Montana, Washington and Wyoming. One goal of the program is to increase the number of primary care physicians, particularly in rural areas. Research awards received by UW\u00a0have topped $1 billion in\u00a0recent years, and the school has more than 280 specialized research centers. Among these research centers are the West Coast Poverty Center, the Polar Science Center and the Center for Emerging and Re-emerging Infectious Diseases."
+        },
+        {
+            "url": "https://www.usnews.com/education/best-global-universities/yale-university-130794",
+            "id": 130794,
+            "name": "Yale University",
+            "city": "New Haven",
+            "country_name": "United States",
+            "three_digit_country_code": "USA",
+            "ranks": [
+                {
+                    "value": "9",
+                    "is_tied": false,
+                    "is_ranked": true,
+                    "label": "Best Global Universities"
+                }
+            ],
+            "stats": [
+                {
+                    "value": "86.0",
+                    "label": "Global Score"
+                },
+                {
+                    "value": "N/A",
+                    "label": "Enrollment"
+                }
+            ],
+            "image_url": {
+                "src": "https://www.usnews.com/object/image/00000148-c6fa-d81c-a5f8-f6fb25e40000/$140930_Yale?size=responsive300&update-time=1412088338375",
+                "medium": "https://www.usnews.com/object/image/00000148-c6fa-d81c-a5f8-f6fb25e40000/$140930_Yale?size=responsive300&update-time=1412088338375",
+                "large": "https://www.usnews.com/object/image/00000148-c6fa-d81c-a5f8-f6fb25e40000/$140930_Yale?size=responsive640&update-time=1412088338375"
+            },
+            "blurb": "Yale University was founded in 1701, making it one of the oldest institutions of higher education in the U.S. The private university is located in New Haven, Connecticut, around 80 miles northeast of New York City. Roughly 45 percent of Yale students study at the undergraduate\u00a0level. Around 20 percent of the total student body is international, with students hailing from more than 110 countries. The university uses a semester-based academic calendar, and the primary language of instruction is English. More than 80 percent of undergraduates live in university housing, and accommodations are available for graduate students as well.\n\nThe university comprises the undergraduate college, the Graduate School of Arts and Sciences and numerous professional schools. Economics, political science and history are among the most popular majors for undergraduates. Among Yale's highly ranked schools for graduate-level studies are the Law School and the School of Management. The medical school is affiliated with the Yale-New Haven Hospital, which is highly ranked in several specialties. The university has many research centers and institutes, among them the Yale Center for Emotional Intelligence, the Yale Cancer Center and the Yale Program in Sleep. Undergraduates have lots of opportunities to get involved with research at the university. For example, students can apply for a Yale College Freshman Summer Research Fellowship in the Sciences & Engineering. One of the major research innovations associated with Yale is chemotherapy treatment, which was developed at the university in the early 1940s."
+        },
+        {
+            "url": "https://www.usnews.com/education/best-global-universities/columbia-university-190150",
+            "id": 190150,
+            "name": "Columbia University",
+            "city": "New York City",
+            "country_name": "United States",
+            "three_digit_country_code": "USA",
+            "ranks": [
+                {
+                    "value": "10",
+                    "is_tied": false,
+                    "is_ranked": true,
+                    "label": "Best Global Universities"
+                }
+            ],
+            "stats": [
+                {
+                    "value": "85.8",
+                    "label": "Global Score"
+                },
+                {
+                    "value": "30,580",
+                    "label": "Enrollment"
+                }
+            ],
+            "image_url": {
+                "src": "https://www.usnews.com/object/image/0000014e-d115-d0b6-afdf-d1177b780000/$150727Columbia?size=responsive300&update-time=1476994392682",
+                "medium": "https://www.usnews.com/object/image/0000014e-d115-d0b6-afdf-d1177b780000/$150727Columbia?size=responsive300&update-time=1476994392682",
+                "large": "https://www.usnews.com/object/image/0000014e-d115-d0b6-afdf-d1177b780000/$150727Columbia?size=responsive640&update-time=1476994392682"
+            },
+            "blurb": "Columbia University is a private institution that was founded in 1754. It is located in the Upper West Side of New York City\u2019s Manhattan borough. Originally called King\u2019s College, the school received its current name in 1896. Around 30 percent of students at Columbia study at the undergraduate level and almost 30 percent of the total student body is international. More than 90 percent of undergraduate students live on campus, and there is some university housing available for graduate students as well. Columbia\u2019s academic calendar is semester-based and the language of instruction is English.\n\n The university is made up of three schools that enroll undergraduates \u2013 Columbia College, the Fu Foundation School of Engineering and Applied Science, and the School of General Studies \u2013 and numerous graduate and professional schools. Among Columbia University\u2019s highly ranked graduate programs are the Business School, the Law School, and the College of Physicians and Surgeons. Additionally, Columbia is affiliated with\u00a0Barnard College for women, the Union Theological Seminary and the Jewish Theological Seminary. The highly regarded New York-Presbyterian University Hospital of Columbia and Cornell is a university teaching hospital. Columbia students and faculty conduct research across the sciences, humanities and social sciences disciplines at more than 200 university centers and institutes. Columbia has also established global centers in Amman, Jordan; Beijing; Mumbai, India; Paris; Istanbul; Nairobi, Kenya; Santiago, Chile; and Rio de Janeiro to facilitate study abroad and research opportunities for students."
+        }
+    ],
+    "summary_items": [],
+    "breadcrumbs": [
+        {
+            "url": "https://www.usnews.com/",
+            "name": "Home"
+        },
+        {
+            "url": "https://www.usnews.com/education",
+            "name": "Education"
+        },
+        {
+            "url": "https://www.usnews.com/education/best-global-universities",
+            "name": "Global Universities"
+        },
+        {
+            "url": "https://www.usnews.com/education/best-global-universities/search",
+            "name": "Search"
+        }
+    ],
+    "correction": null,
+    "page_heading": "Search U.S. News Best Global Universities",
+    "page_image": null,
+    "page_blurb": "These institutions from the U.S. and more than 100 other countries have been ranked based on 13 indicators that measure their academic research performance and their global and regional reputations. Students can use these rankings to explore the higher education options that exist beyond their own countries' borders and to compare key aspects of schools' research missions. These are the world's 2,250 top universities.",
+    "summary_heading": null,
+    "sort": "rank-asc",
+    "sort_options": [
+        {
+            "value": "rank-asc",
+            "label": "Rankings (high to low)"
+        },
+        {
+            "value": "rank-desc",
+            "label": "Rankings (low to high)"
+        },
+        {
+            "value": "alpha-asc",
+            "label": "Alphabetically (A-Z)"
+        },
+        {
+            "value": "alpha-desc",
+            "label": "Alphabetically (Z-A)"
+        },
+        {
+            "value": "enrollment-desc",
+            "label": "Enrollment (high to low)"
+        }
+    ],
+    "filters": {},
+    "meta_tags": [
+        {
+            "property": "og:title",
+            "content": "Search the Best Global Universities"
+        },
+        {
+            "property": "og:description",
+            "content": "Search the U.S. News rankings for the best universities in the world. Top university rankings for Asia, Australia, Europe and more."
+        },
+        {
+            "property": "twitter:title",
+            "content": "Search the Best Global Universities"
+        },
+        {
+            "property": "twitter:description",
+            "content": "Search the U.S. News rankings for the best universities in the world. Top university rankings for Asia, Australia, Europe and more."
+        },
+        {
+            "property": "twitter:card",
+            "content": "summary_large_image"
+        },
+        {
+            "property": "twitter:site",
+            "content": "@USNews"
+        },
+        {
+            "property": "fb:app_id",
+            "content": "5834919267"
+        },
+        {
+            "property": "og:image",
+            "content": "https://media.beam.usnews.com/25/bd/c4fa18ca4abdbe0d8f48b21d1274/191007-globalstudents-stock.png"
+        },
+        {
+            "property": "twitter:image",
+            "content": "https://media.beam.usnews.com/25/bd/c4fa18ca4abdbe0d8f48b21d1274/191007-globalstudents-stock.png"
+        }
+    ],
+    "route": "https://www.usnews.com/education/best-global-universities/search",
+    "utag_data": {
+        "site_vertical": "education",
+        "site_portal": "higher education",
+        "site_product": "best global universities",
+        "site_product_subsection": "search",
+        "content_type": "product",
+        "page_type": "search",
+        "page_name": "Search Best Global Universities - US News education",
+        "site_product_section": "search",
+        "zone": "search",
+        "site": "bestglobaluniversities",
+        "rankinglist_type": ""
+    },
+    "tealium_environment": "prod",
+    "meta": {
+        "zone": "search",
+        "site": "bestglobaluniversities",
+        "title": "Search Best Global Universities - US News Education",
+        "description": "Search the US News rankings for the best universities in the world. Top university rankings for Asia, Australia, Europe and more.",
+        "canonical_url": "https://www.usnews.com/education/best-global-universities/search",
+        "keywords": "education, bestglobal, bestglobaluniversities, search",
+        "google-site-verification": "owJBuFHD3VHcTSsnPSOYizmUcs3GSBjbx09vBbBi1MM",
+        "content-type": "text/html; charset=utf-8",
+        "usn_content_type": ""
+    },
+    "request_info": {
+        "request_url": "https://www.usnews.com/education/best-global-universities/api/search?_sort=schoolName&_sortDirection=asc&_page=1",
+        "subdomain": "www",
+        "environment": null,
+        "environment_affix": "",
+        "port": null,
+        "path": "/education/best-global-universities/api/search"
+    }
+}
