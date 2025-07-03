@@ -51,19 +51,19 @@ def scrape_usnews():
         # with open(f'data_page_{pageid}.json', 'w') as json_file:
         #     json.dump(json_data, json_file, indent=4)
         for school in json_data['items']:
-            result_json = []
+            result_json = {}
             school_data = []
             # print(school.keys())
             for field, name in FIELDS.items():
                 value = get_value(school, field)
                 if value is not None:
                     school_data.append(value)
-                    result_json.append({name: value})
+                    result_json[name]=value
                 else:
                     school_data.append("N/A")
             detailed_info = parse.parse_university(get_value(school, 'url'))
             for field, value in detailed_info.items():
-                result_json.append({field: value})
+                result_json[field]=value
             data_writer.writerow(school_data)
             merged_json.append(result_json)
         print(f"Scraped page {pageid} successfully.")
@@ -73,6 +73,6 @@ with open('data.csv', 'w') as data_file:
     colNames = [name for _, name in FIELDS.items()]
     data_writer.writerow(colNames)
     scrape_usnews()
-with open(f'usnews_detailed_data.json', 'a') as json_file:
+with open(f'usnews_detailed_data.json', 'w') as json_file:
     json.dump(merged_json, json_file, indent=4)
     json_file.write('\n')

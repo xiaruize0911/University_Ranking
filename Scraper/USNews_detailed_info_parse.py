@@ -1,5 +1,28 @@
 import requests
 from bs4 import BeautifulSoup
+import re
+
+ALIASES = {
+    'mit': 'massachusetts institute of technology',
+    'caltech': 'california institute of technology',
+    'ucb': 'university of california berkeley',
+    'stanford': 'stanford university',
+    # Add more aliases as needed
+}
+
+def normalize_name(name: str) -> str:
+    # Lowercase
+    name = name.lower()
+    # Remove text in parentheses, like "(MIT)"
+    name = re.sub(r'\(.*?\)', '', name)
+    # Remove punctuation
+    name = re.sub(r'[^\w\s]', '', name)
+    # Normalize spaces
+    name = re.sub(r'\s+', ' ', name)
+    if name in ALIASES:
+        # If the name is an alias, replace it with the full name
+        name = ALIASES[name]
+    return name.strip()
 
 HEADERS = {
         'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:138.0) Gecko/20100101 Firefox/138.0'
@@ -33,7 +56,8 @@ def parse_university(url):
             break
         rank = subject_tag.find(class_='RankList__Rank-sc-2xewen-2 ktVaRA ranked has-badge').text.strip()
         rank = int(rank[1:])
-        result[subject_name.text.strip()] = rank
+        subject_name = normalize_name(subject_name.text.strip())
+        result[subject_name] = rank
     
     return result
 
