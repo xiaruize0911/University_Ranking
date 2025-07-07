@@ -3,7 +3,7 @@ import sqlite3
 import re
 import pandas as pd
 import numbers
-from utils import normalize_name
+from Backend.utils.utils import normalize_name
 
 # Load JSON data
 university = pd.read_json("data/usnews_detailed_data.json")

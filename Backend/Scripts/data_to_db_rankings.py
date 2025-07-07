@@ -1,7 +1,7 @@
 import pandas as pd
 import numbers
 import sqlite3
-from utils import normalize_name
+from Backend.utils.utils import normalize_name
 
 # Load the CSV
 df = pd.read_json("data/usnews_detailed_data.json")
