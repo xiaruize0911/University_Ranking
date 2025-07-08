@@ -1,1 +1,1 @@
-DATABASE = 'University_ranking.db'
+DATABASE = 'University_rankings.db'
