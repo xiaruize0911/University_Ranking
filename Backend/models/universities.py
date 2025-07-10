@@ -1,34 +1,46 @@
-from db.database import get_db_connection
-
-def search_universities(query: str = None,sort_credit: str = "Universities.id" ,limit: int = 50):
+from db.database import get_db_connection 
+def filter_universities(query=None, sort_credit="US_News_best global universities_Rankings", country=None, city=None):
     conn = get_db_connection()
-    if query is not None:
-        like_query = f"%{query.lower()}%"
-    else:
-        like_query = None 
-    print(f"found query {query}, {like_query}, sort_credit {sort_credit}")
-    
-    valid_sort_columns = {"id", "name", "country", "city", "photo"}
-    if sort_credit not in valid_sort_columns:
-        sort_credit = "Universities.id" 
 
-    like_query = f"%{query.lower()}%" if query else "%"
-
-    sql = f"""
-        SELECT DISTINCT Universities.id, name, country, city, photo, subject, rank_value
+    sql = """
+        SELECT Universities.id, Universities.name, Universities.country, Universities.city, Universities.photo,
+               R.rank_value
         FROM Universities
-        JOIN Rankings ON Universities.normalized_name = Rankings.normalized_name
-        JOIN UniversityStats ON Universities.normalized_name = UniversityStats.normalized_name
-        WHERE (LOWER(name) LIKE '{like_query}' OR LOWER(Universities.normalized_name) LIKE '{like_query}' OR '{query}' IS NULL)
-        AND (type = {sort_credit} or '{sort_credit}' = 'Universities.id')
-        ORDER BY rank_value ASC NULLS LAST
-        LIMIT {limit}
     """
 
-    cur = conn.execute(sql)
-    rows = [dict(row) for row in cur.fetchall()]
+    # If a ranking table is given, JOIN it
+    if sort_credit:
+        sql += f"""
+            LEFT JOIN "{sort_credit}" AS R
+            ON Universities.normalized_name = R.normalized_name
+        """
+    else:
+        sql += """
+            LEFT JOIN (SELECT NULL AS normalized_name, NULL AS rank_value) AS R
+            ON 1 = 0
+        """
+
+    sql += " WHERE 1=1"
+    params = []
+
+    if query:
+        sql += " AND (LOWER(Universities.name) LIKE ? OR LOWER(Universities.normalized_name) LIKE ?)"
+        like = f"%{query.lower()}%"
+        params += [like, like]
+
+    if country:
+        sql += " AND LOWER(Universities.country) = ?"
+        params.append(country.lower())
+
+    if city:
+        sql += " AND LOWER(Universities.city) = ?"
+        params.append(city.lower())
+
+    # Always sort by rank_value if joined
+    sql += " ORDER BY R.rank_value ASC NULLS LAST"
+    sql += " LIMIT 50"
+
+    cursor = conn.execute(sql, params)
+    results = [dict(row) for row in cursor.fetchall()]
     conn.close()
-    return rows
-
-# sort is not completed!
-
+    return results
