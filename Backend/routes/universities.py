@@ -1,5 +1,7 @@
 from flask import Blueprint, request, jsonify
 from models.universities import filter_universities
+from flask import Flask
+from models.ranking_options import ranking_options
 
 universities_bp = Blueprint("universities", __name__)
 
@@ -20,4 +22,7 @@ def get_university(univ_id):
     if result:
         return jsonify(result)
     return jsonify({"error": "University not found"}), 404
-
+@universities_bp.route('/ranking_options', methods=['GET'])
+def get_ranking_options():
+    tables = ranking_options()
+    return jsonify(tables)

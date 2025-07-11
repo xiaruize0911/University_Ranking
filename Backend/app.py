@@ -9,8 +9,5 @@ CORS(app)
 
 # Register blueprints
 app.register_blueprint(universities_bp, url_prefix="/universities")
-# app.register_blueprint(rankings_bp, url_prefix="/rankings")
-# app.register_blueprint(stats_bp, url_prefix="/stats")
-
 if __name__ == "__main__":
     app.run(debug=True)

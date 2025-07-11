@@ -35,7 +35,6 @@ def filter_universities(query=None, sort_credit="US_News_best global universitie
     if city:
         sql += " AND LOWER(Universities.city) = ?"
         params.append(city.lower())
-
     # Always sort by rank_value if joined
     sql += " ORDER BY R.rank_value ASC NULLS LAST"
     sql += " LIMIT 50"
